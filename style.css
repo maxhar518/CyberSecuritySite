@@ -1,0 +1,87 @@
+@font-face {
+  font-family: 'Ali';
+  src: url(./assets/Silkscreen/Silkscreen-Regular.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    background-image: url('./assets/banner-5217683_1920.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+  
+  }
+  
+  .container2 {
+    background-image: url('./assets/hacker-4867349_1920.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+  }
+  .container3 {
+    background-image: url('./assets/cyber-security-3480163_1920.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+  }
+  .container4 {
+    background-image: url('./assets/pic1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+  }
+  .container5 {
+    background-image: url(./assets/digital-8280778_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+  }
+  .container6 {
+    background-image: url(./assets/pic2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+  }
+
+  img {
+    width: 109px;
+  }  
+
+h1 {
+  font-family: 'Ali';
+  /* font-family: 'Montserrat', sans-serif; */
+  color: white;
+  text-align: center;
+  font-size: 59px;
+  margin-top: 55px;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+}
+
+h2 {
+  /* font-family: 'Ali'; */
+  margin-top: -20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+p{
+  font-size: 25px;
+  color: white;
+  text-align: justify;
+}
+a {
+  text-decoration: none;
+}
