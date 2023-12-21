@@ -13,8 +13,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
-    background-size: cover;
-  
+    background-size: cover;  
   }
   
   .container2 {
@@ -39,17 +38,24 @@ body {
     background-size: cover;
   }
   .container5 {
-    background-image: url(./assets/digital-8280778_1920.jpg);
+    background-image: url('./assets/pic2.jpg');
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
     background-size: cover;
   }
   .container6 {
-    background-image: url(./assets/pic2.jpg);
+    background-image: url('./assets/hacker-2883630_1920.jpg');
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
+    background-size: cover;
+  }
+  .container7 {
+    background-image: url('./assets/cyber-4210039_1920.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;  
     background-size: cover;
   }
 
@@ -63,7 +69,7 @@ h1 {
   color: white;
   text-align: center;
   font-size: 59px;
-  margin-top: 55px;
+  margin-top: 15px;
   letter-spacing: 1px;
   word-spacing: 3px;
 }
@@ -76,6 +82,10 @@ h2 {
   color: white;
   text-align: center;
   cursor: pointer;
+}
+h3 {
+  font-size: xx-large;
+  text-align: center;
 }
 p{
   font-size: 25px;
